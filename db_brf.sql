@@ -51,7 +51,6 @@ VALUES (1, 1, 1, 1);
 
 
 --us.6
-
 UPDATE Utilisateur
 SET userID = 'Jamal', userMail = 'jamal@gmaiol.com'
 WHERE UserID = 2;
